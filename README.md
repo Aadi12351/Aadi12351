@@ -32,3 +32,8 @@ Linux | AWS | Docker | Kubernetes | Terraform | Jenkins | Python | GitHub Action
 LinkedIn: YOUR_LINKEDIN
 
 Portfolio: YOUR_WEBSITE
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadi12351&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi12351&layout=compact&theme=github_dark)
