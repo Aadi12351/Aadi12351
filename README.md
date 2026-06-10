@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Aaditya 👋
 
-<!--
-**Aadi12351/Aadi12351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+Passionate about Cloud, Automation, Infrastructure, and MLOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+* AWS Cloud
+* Docker
+* Kubernetes
+* Terraform
+* GitHub Actions
+* Python Automation
+
+### Tech Stack
+
+Linux | AWS | Docker | Kubernetes | Terraform | Jenkins | Python | GitHub Actions
+
+### Current Projects
+
+🚀 AWS Infrastructure Automation
+
+🚀 Kubernetes Monitoring Stack
+
+🚀 CI/CD Pipeline Automation
+
+🚀 MLOps Deployment Pipeline
+
+### Contact
+
+LinkedIn: YOUR_LINKEDIN
+
+Portfolio: YOUR_WEBSITE
